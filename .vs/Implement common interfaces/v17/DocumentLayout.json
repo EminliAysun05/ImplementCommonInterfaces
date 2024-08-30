@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namjoon\\source\\repos\\Implement common interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{502BF997-B58A-4AF5-889E-6E33BA627FC3}|Implement common interfaces.csproj|c:\\users\\namjoon\\source\\repos\\implement common interfaces\\carcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BF997-B58A-4AF5-889E-6E33BA627FC3}|Implement common interfaces.csproj|solutionrelative:carcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502BF997-B58A-4AF5-889E-6E33BA627FC3}|Implement common interfaces.csproj|c:\\users\\namjoon\\source\\repos\\implement common interfaces\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BF997-B58A-4AF5-889E-6E33BA627FC3}|Implement common interfaces.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502BF997-B58A-4AF5-889E-6E33BA627FC3}|Implement common interfaces.csproj|c:\\users\\namjoon\\source\\repos\\implement common interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502BF997-B58A-4AF5-889E-6E33BA627FC3}|Implement common interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarComparer.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Implement common interfaces\\CarComparer.cs",
+              "RelativeDocumentMoniker": "CarComparer.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Implement common interfaces\\CarComparer.cs",
+              "RelativeToolTip": "CarComparer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:24:50.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Implement common interfaces\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Implement common interfaces\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:09:25.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namjoon\\source\\repos\\Implement common interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\namjoon\\source\\repos\\Implement common interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:08:59.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
